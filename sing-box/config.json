@@ -1,8 +1,8 @@
 {
   "log": {
     "disabled": false, // Disable logging
-    "level": "info", // Log level; exits: trace debug info warn error fatal panic
-    "output": "box.log", // Path to log file
+    "level": "debug", // Log level; exits: trace debug info warn error fatal panic
+    "output": "/log/box.log", // Path to log file
     "timestamp": true // Add time to each log line
   },
   "dns": {},
