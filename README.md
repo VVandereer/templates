@@ -1,2 +1,4 @@
 # templates
-Repository of config templates for some software
+Репозиторий шаблонов конфигураций для различного программного обеспечения
+На данный момент имеются конфигурации:
+  sing-box
